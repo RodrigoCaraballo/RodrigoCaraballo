@@ -22,11 +22,6 @@ Some of the projects I have worked on are:
 -   Front-End ([https://github.com/RodrigoCaraballo/Task-Project-Angular](https://github.com/RodrigoCaraballo/Task-Project-Angular))
 -   Back-End ([https://github.com/RodrigoCaraballo/Task-Project-NestJS](https://github.com/RodrigoCaraballo/Task-Project-NestJS))
 
-#### Bank App (No DB) - Full Stack
-
--   Front-End ([https://github.com/RodrigoCaraballo/C3-2023-Angular-Frontend-Uruguay](https://github.com/RodrigoCaraballo/C3-2023-Angular-Frontend-Uruguay))
--   Back-End ([https://github.com/RodrigoCaraballo/C3-2023-Nest-backend-Uruguay](https://github.com/RodrigoCaraballo/C3-2023-Nest-backend-Uruguay))
-
 #### Grade Management App
 
 -   Front-End ([https://github.com/JersonBasto/final-front-end](https://github.com/JersonBasto/final-front-end))
