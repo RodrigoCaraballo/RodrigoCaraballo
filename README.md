@@ -17,7 +17,7 @@ In addition, I participated in the intensive training provided by SofkaU, which 
 Some of the projects I have worked on are:
 #### Authentication Web Project - FEATURED PROJECT
 
-https://github.com/RodrigoCaraballo/AuthProject
+-  Full-Stack (https://github.com/RodrigoCaraballo/AuthProject)
 
 #### Task Management App - FEATURED PROJECT -
 
