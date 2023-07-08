@@ -41,6 +41,9 @@ Some of the projects I have worked on are:
 
 I have skills in the following:
 
+-  Angular
+-  React
+-  NestJs
 -   Docker
 -   Tailwind
 -   Bootstrap
