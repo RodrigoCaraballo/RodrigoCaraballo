@@ -15,8 +15,11 @@ In addition, I participated in the intensive training provided by SofkaU, which 
 ### Projects
 
 Some of the projects I have worked on are:
+#### Authentication Web Project - FEATURED PROJECT
 
-#### Task Management App - RECENT PROJECT -
+https://github.com/RodrigoCaraballo/AuthProject
+
+#### Task Management App - FEATURED PROJECT -
 
 -   Front-End ([https://github.com/RodrigoCaraballo/Task-Project-Angular](https://github.com/RodrigoCaraballo/Task-Project-Angular))
 -   Back-End ([https://github.com/RodrigoCaraballo/Task-Project-NestJS](https://github.com/RodrigoCaraballo/Task-Project-NestJS))
