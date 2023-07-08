@@ -18,7 +18,6 @@ Some of the projects I have worked on are:
 
 #### Task Management App - RECENT PROJECT -
 
--   Web-App ([https://casual-task-app.netlify.app](https://casual-task-app.netlify.app/))
 -   Front-End ([https://github.com/RodrigoCaraballo/Task-Project-Angular](https://github.com/RodrigoCaraballo/Task-Project-Angular))
 -   Back-End ([https://github.com/RodrigoCaraballo/Task-Project-NestJS](https://github.com/RodrigoCaraballo/Task-Project-NestJS))
 
